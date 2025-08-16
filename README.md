@@ -1,21 +1,16 @@
 <h1 align="center">Привет👋, меня зовут Дмитрий</h1>
 <h3 align="center">Фронтенд разработчик из Санкт-Петербурга</h3>
 
+---
+
 ### 🚀 Обо мне:
-- 🤝 Мне всегда нравилось иметь дело с компьютерами и разбираться как все устроено. Программирование на мой взгляд объединяет эти вещи в одно целое.
+- 💻 С детства увлекаюсь компьютерами и технологиями. Программирование позволяет мне реализовывать творческие идеи и решать сложные задачи.
 - 🌱 Стараюсь изучать новое и не забывать старое.
-- 🔭 В данный момент работаю над проектом **[Filmspin](https://github.com/theCrowling/filmspin)** - веб-сервис для быстрого подбора кино (React, TypeScript, Vite).
+- 🔭 Сейчас работаю над проектом **[Filmspin](https://github.com/theCrowling/filmspin)** - веб-сервис для быстрого подбора кино (React, TypeScript, Vite).
 - ⚡ В свободное время: кино, сериалы, настольные игры, 3D моделирование.
-- 👨‍💻 В поиске работы - **[мое резюме ](https://spb.hh.ru/resume/b9516047ff0f43acd20039ed1f38394a48344f)**.
+- 🚀 В активном поиске работы - **[мое резюме ](https://spb.hh.ru/resume/b9516047ff0f43acd20039ed1f38394a48344f)**.
 
-<h3 align="left">📬 Мои контакты:</h3>
-<p align="center"> 
-  <a href="mailto:d.kirkin@icloud.com"> <img src="https://img.shields.io/badge/Email-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" alt="Email"> </a> 
-  <a href="https://t.me/thecrowling"> <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"> </a> 
-</p>
-
-
-<h3 align="left">⚙️Технологический стек:</h3>
+### ⚙️Технологический стек:
 <p align="center"> 
   <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React"/></a>
   <a href="https://redux.js.org"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" title="Redux"/></a> 
@@ -30,10 +25,20 @@
   <a href="https://www.blender.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" title="Blender (3D моделирование)"/></a>
 </p>
 
-<hr style="height:20px;border-width:0;color:gray;background-color:gray">
+### 📬 Контакты:
+<div align="center">
+  <a href="mailto:d.kirkin@icloud.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email">
+  </a>
+  <a href="https://t.me/thecrowling">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</div>
+
+---
 
 <div align="center">
-<p><img src="https://streak-stats.demolab.com?user=thecrowling&&border_radius=8&mode=weekly"/></p>
+<!-- <p><img src="https://streak-stats.demolab.com?user=thecrowling&&border_radius=8&mode=weekly"/></p> -->
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecrowling&layout=compact&hide_border=true"/></p>
 <p> <img src="https://komarev.com/ghpvc/?username=thecrowling&label=Profile+views&color=0ea9b4&style=flat" alt="thecrowling" /> </p>
 </div>
